@@ -8,7 +8,7 @@ class Main
       x = sc.nextInt();
       y = sc.nextInt();
 
-      x = x + y;
+      x = x + y;  //condition
       y = x - y;
       x = x - y;
 
