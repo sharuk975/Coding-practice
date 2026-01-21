@@ -4,6 +4,6 @@ public class PrintNumbers {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a no:");
         int a = sc.nextInt();
-        System.out.println(a);oo
+        System.out.println(a);oo00
     }
 }
